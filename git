@@ -1,0 +1,9 @@
+*.pem
+*.key
+id_rsa
+id_ed25519
+.env
+credentials
+*.log
+__pycache__/
+.DS_Store
